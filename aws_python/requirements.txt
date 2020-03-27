@@ -1,0 +1,11 @@
+awscli
+boto3
+ipython
+sensible
+pytest
+moto
+pylint
+jupyter
+pytest-cov
+pandas
+black
