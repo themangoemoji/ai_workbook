@@ -6,4 +6,4 @@ services:
     container_name: aws_python
     tty: true
     stdin_open: true
-    command: /bin/bash
+    command: echo 'HEY'
