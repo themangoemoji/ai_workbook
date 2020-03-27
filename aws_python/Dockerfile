@@ -2,4 +2,4 @@ FROM python:3-alpine
 COPY . /python
 WORKDIR /python
 RUN pip install -r requirements.txt
-CMD /bin/bash echo 'HEY, you, yeah you'
+CMD /bin/bash echo 'HEY'
